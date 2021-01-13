@@ -10,5 +10,4 @@ Web application that allows you to manage all the administrative processes of a 
 
 ## Views
 ![](/Recursos/img/view.PNG)
-
 ![](/Recursos/img/view2.PNG)
