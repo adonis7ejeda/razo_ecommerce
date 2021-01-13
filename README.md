@@ -8,5 +8,6 @@ Web application that allows you to manage all the administrative processes of a 
 * [Bootstrap](https://getbootstrap.com/)
 * [MySQL](https://www.mysql.com/)
 
-## View
+## Views
 ![](/Recursos/img/view.PNG)
+![](/Recursos/img/view2.PNG)
