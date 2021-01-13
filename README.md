@@ -7,3 +7,6 @@ Web application that allows you to manage all the administrative processes of a 
 * [JavaScript](https://www.javascript.com/)
 * [Bootstrap](https://getbootstrap.com/)
 * [MySQL](https://www.mysql.com/)
+
+## View Login
+![](/Recursos/img/view.PNG)
