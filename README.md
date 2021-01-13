@@ -8,6 +8,15 @@ Web application that allows you to manage all the administrative processes of a 
 * [Bootstrap](https://getbootstrap.com/)
 * [MySQL](https://www.mysql.com/)
 
-## Views
+## View index
 ![](/Recursos/img/view.PNG)
+## View shopping cart
 ![](/Recursos/img/view2.PNG)
+
+You can see an user manual of the website [here](https://drive.google.com/file/d/1DoJSndMQDSPuQdLI_ItIeHJHBBpUnBaR/view?usp=sharing)
+## AVOJ Development ✒️
+* Adonis Tejeda
+* Victor Mendoza
+* Olmar Canchano
+* Jesus Ferrans
+* Janer Jaramillo
